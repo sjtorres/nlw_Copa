@@ -4,5 +4,6 @@ Trilha Ignite- NLW Copa Studies
 
 ## Projeto proposto 
 
-![image](https://user-images.githubusercontent.com/63923428/199853947-dba5e190-04f2-413d-aa61-eb23b27faa5c.png)
+![image](https://user-images.githubusercontent.com/63923428/199854229-66ff7c01-cf0b-463b-950e-7bb255fe6204.png)
+
  
