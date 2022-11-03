@@ -21,9 +21,7 @@ Link Figma - https://www.figma.com/file/9yHS3i3WvLu4GNL2oKfXar/Bol%C3%A3o-da-Cop
 
 
 
-###Telas Mobile
+### Telas Mobile
 
 
 ![image](https://user-images.githubusercontent.com/63923428/199854229-66ff7c01-cf0b-463b-950e-7bb255fe6204.png)
-
- 
