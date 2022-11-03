@@ -1,6 +1,6 @@
 # NLW Copa
 
-##Bolão da Copa 
+## Bolão da Copa 
 
 
 Trilha Ignite- NLW Copa Studies
